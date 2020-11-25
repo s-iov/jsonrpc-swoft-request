@@ -3,7 +3,7 @@
     "description": "swoft客户端调用hyperf-jsonrpc服务",
     "require": {
         "guzzlehttp/guzzle": "~7.0.0"
-    }
+    },
     "authors": [
         {
             "name": "cvl",
